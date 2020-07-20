@@ -1,7 +1,7 @@
 console.log("hello");
 
-// let seconds = 60 * 20;
-let seconds = 3;
+let seconds = 60 * 20;
+// let seconds = 3;
 
 let minutes = 0;
 
