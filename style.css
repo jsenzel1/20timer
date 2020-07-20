@@ -1,0 +1,187 @@
+html, body,button {
+    background-color:whitesmoke;
+    margin: 0;
+    padding: 0;
+  
+    font-family: "Space Mono", monospace;
+    text-align: center;
+    /* width: 80%; */
+    margin-left: 3%;
+    margin-right: 3%;
+  
+    
+  }
+  canvas {
+    display: block;
+  }
+  
+  h1{
+    font-size: 4.2em;
+    font-weight: 500;
+    margin: 1%;
+    /* font-style: italic; */
+  }
+  
+  #subhead{
+    font-size: 1.9em;
+    margin: 1%;
+    letter-spacing: .1em;
+    line-height: 1.2em;
+  }
+
+  button{
+        font-size: 2em;
+        border-radius: 5%;
+
+        transition-duration: 0.4s;
+
+        padding: 10px 24px;
+
+  /* color: white; */
+  }
+  button:hover{
+    background-color: ghostwhite; /* Green */
+
+  }
+  
+  ul{
+    /* text-align: center; */
+    display: inline;
+    font-size: 1.1em;
+    font-weight:50px;
+  
+    
+  }
+  
+  iframe{
+    border: none;
+  }
+  
+  
+  li{
+    display: block;
+    
+    
+   
+  }
+  
+  li a{
+    font-size: 1.7em;
+    
+  }
+  
+  a{
+    text-decoration: underline;
+    color: black
+    
+  }
+  
+  a:visited{
+    color: black;
+  }
+  
+  a:hover{
+    font-style: italic;
+  }
+  
+  
+  
+  h2{
+    font-size: 2.4em;
+    font-weight: 500;
+    margin: .5%;
+    /* font-style: italic; */
+  }
+  
+  h3{
+    font-size: 1.3em;
+    /* font-style: italic; */
+    font-weight: 100;
+  
+  }
+  
+  h4{
+    font-size: 1.3em;
+    color:grey;
+  }
+  
+  hr{
+  
+    border: none;
+    height: 2px;
+    width: 50%;
+    color: black;
+    background-color: black;
+    margin-top: .1em;
+    margin-bottom: .1em;
+  
+  }
+  
+  .thinhr{
+    height: 1px;
+    /* width: 100%; */
+  }
+  
+  .experimentsL{
+    font-size: 1.7em;
+    /* font-style: italic; */
+  }
+  
+  #arrow{
+    line-height: 90%;
+    font-style: italic;
+   
+  }
+  
+  #hr{
+    border: none;
+    height: 2px;
+    width:60%;
+    color: black;
+    background-color: black;
+    margin-top: .1em;
+    margin-bottom: .1em;
+  
+  }
+  
+  #longhr{
+    border: none;
+    height: 4px;
+    width:80%;
+    color: black;
+    background-color: black;
+    margin-top: .2em;
+    margin-bottom: .2em;
+  
+  }
+  #longhr2{
+    border: none;
+    height: 2px;
+    width:80%;
+    color: black;
+    background-color: black;
+    margin-top: .2em;
+    margin-bottom: .2em;
+  
+  }
+  
+  
+  
+  ul{
+    display: block;
+    font-size: 1.4em;
+    font-style: italic;
+    font-weight: 100;
+  
+    /* max-width: 85%; */
+    /* text-align: center; */
+    
+  
+  }
+  
+  img{
+    max-width: 70%;
+    height: auto;
+    border-radius: 5px;
+  } 
+  
